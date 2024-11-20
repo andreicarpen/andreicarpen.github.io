@@ -1,0 +1,1 @@
+{"version":3,"file":"hobbies-C3E_M2ha.js","sources":["../../../../pages/hobbies.vue"],"sourcesContent":["\n<script setup>\nuseHead({\n  title: \"Andrei Carpen | Hobbies\",\n});\n\n\n</script>\n\n<template>\n  <Hobbies />\n</template>\n\n"],"names":[],"mappings":";;;;;;;;;;;;;;;;;;;;;;;;AAEA,YAAQ;AAAA,MACN,OAAO;AAAA,IACT,CAAC;;;;;;;;;;;;;"}

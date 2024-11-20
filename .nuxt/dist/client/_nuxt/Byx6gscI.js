@@ -1,0 +1,1 @@
+import{u as o}from"./Iw3r3Aeh.js";import{h as s,l as t,o as r}from"./DAFplPCH.js";const i={__name:"hobbies",setup(n){return o({title:"Andrei Carpen | Hobbies"}),(a,c)=>{const e=t("Hobbies",!0);return r(),s(e)}}};export{i as default};
